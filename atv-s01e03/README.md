@@ -54,6 +54,6 @@ São Sistemas Distribuídos em que os nós são pequenos, mantidos por bateria, 
 
 ### CORBA
 
-É a especificação de um OMA (object management architecture) que tem por objetivo a interoperabilidade entre diferentes sistemas computacionais e linguagens de programação através de ORB’s, que são estruturas que        permitem que os programadores façam chamadas de um computador a outro através de uma rede. O CORBA é definido e padronizado pela OMG (Object Management Group).
+É a especificação de um OMA (object management architecture) que tem por objetivo a interoperabilidade entre diferentes sistemas computacionais e linguagens de programação através de ORB’s, que são estruturas que permitem que os programadores façam chamadas de um computador a outro através de uma rede. O CORBA é definido e padronizado pela OMG (Object Management Group).
 
-*Uliza IDL(Interface Definition Language), uma linguagem baseada em C++*
+*Utiliza IDL(Interface Definition Language), uma linguagem baseada em C++*
